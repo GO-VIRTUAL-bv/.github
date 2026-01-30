@@ -1,6 +1,5 @@
-# GO-VIRTUAL
+# [![logo](./assets/logo.png)](https://www.go-virtual.com)
 
-[![Website](https://img.shields.io/badge/website-go--virtual.com-blue)](https://www.go-virtual.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Go%20Virtual-0A66C2?logo=linkedin)](https://www.linkedin.com/company/go-virtual-bvba/)
 [![Email](https://img.shields.io/badge/contact-sales%40go--virtual.com-green)](mailto:sales@go-virtual.com)
 [![Hiring](https://img.shields.io/badge/We're%20Hiring-Join%20Us-success)](https://www.go-virtual.com/jobs)
@@ -41,6 +40,7 @@ Most of our product code lives in private repositories. This GitHub organization
 - Website: <https://www.go-virtual.com>
 - Sales: <sales@go-virtual.com>
 - Support: <support@go-virtual.com>
+- Blog: <https://www.go-virtual.com/blog>
 
 ## Jobs
 
