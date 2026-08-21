@@ -22,14 +22,6 @@ We build software that turns operational reality (projects, people, equipment, r
 
 [VireXGuard](https://www.virexguard.com) is a wearable safety platform for high-risk worksites—ports & terminals, rail infrastructure, petrochemical & energy, heavy construction. It combines centimeter-accurate RTK GNSS positioning with dynamic geofencing: safety zones are drawn and updated live from a dashboard, and workers get instant vibration, LED and audio alerts *before* proximity becomes an incident.
 
-## Why this GitHub exists
-
-Most of our product code lives in private repositories. This GitHub organization is where we:
-
-- publish and maintain open-source components behind our real-time geofencing and geospatial work,
-- maintain or fork core building blocks we rely on,
-- keep community health files and shared CI patterns for our repos.
-
 ## Featured repositories
 
 - **[tile38.go](https://github.com/GO-VIRTUAL-bv/tile38.go)** — A dependency-free Go client for the Tile38 geospatial database: RESP over `net.Conn`, with searches, hooks, channels, and live geofence streaming. Built and maintained by us.
